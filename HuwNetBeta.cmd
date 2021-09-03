@@ -11,7 +11,7 @@ cls
 echo ...
 cls 
 color 3
-echo made by huw.c.bernard@gmail.com
+echo made by @tht1batchcoder on github
 pause
 cls
 
