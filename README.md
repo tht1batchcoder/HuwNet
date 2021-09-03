@@ -13,3 +13,6 @@ wslview HuwNetBeta.cmd
 for windows just cd into the folder and type
 
 HuwNetBeta.cmd
+contact at:
+
+hypixelthing1@gmail.com
